@@ -1,3 +1,8 @@
+# Lab 10 - Render hosted flask app with Postgres DB
+# Author: Graydon Sinclair
+# UserId: grsi7978
+# github: grsi7978
+
 import psycopg2
 
 from flask import Flask
